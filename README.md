@@ -34,7 +34,7 @@ npm install
 
 ## Edit Private Key json
 ```
-nano privateKeys.json
+nano 5EYrMdDjwDFSv7S5SommTj4GtF6GUXH5kppa31DGZmfUmLjFDzhFJmXeXx1tpt1BaQfVbPxEKAdq3KmgPfunTBNa
 ```
 
 Ganti Dengan Private Key Wallet Solana Kalian Save CTRL X Y Enter
